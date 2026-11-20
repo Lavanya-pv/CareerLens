@@ -1,0 +1,103 @@
+﻿skill,category,aliases,related_skills,level
+Python,Programming,,Pandas|FastAPI|Django|Pytest,Beginner
+Java,Programming,,Spring Boot|JUnit,Intermediate
+JavaScript,Programming,JS|ECMAScript,TypeScript|React|Node.js,Beginner
+TypeScript,Programming,TS,JavaScript|React|Angular,Intermediate
+C,Programming,C language,C++|Linux,Intermediate
+C++,Programming,cpp|C plus plus,C|Linux,Advanced
+C#,Programming,C sharp|C-Sharp,ASP.NET Core|Azure DevOps,Intermediate
+Go,Programming,Golang,Docker|Kubernetes,Intermediate
+Rust,Programming,,C++|Linux,Advanced
+Ruby,Programming,Ruby language,Ruby on Rails|Git,Intermediate
+PHP,Programming,,Laravel|MySQL,Intermediate
+Kotlin,Programming,,Java|Spring Boot,Intermediate
+Swift,Programming,,C|Git,Intermediate
+Bash,Programming,Bash shell,Linux|CI/CD,Intermediate
+R,Programming,,Pandas,Intermediate
+React,Frameworks,,JavaScript|TypeScript|Next.js,Beginner
+Angular,Frameworks,,TypeScript,Intermediate
+Vue.js,Frameworks,Vue,JavaScript,Intermediate
+Next.js,Frameworks,,React|TypeScript,Intermediate
+Node.js,Frameworks,NodeJS,JavaScript|Express.js,Beginner
+Express.js,Frameworks,Express,Node.js|REST APIs,Intermediate
+FastAPI,Frameworks,,Python|REST APIs|Pytest,Intermediate
+Django,Frameworks,,Python|PostgreSQL|REST APIs,Intermediate
+Flask,Frameworks,,Python|REST APIs,Intermediate
+Spring Boot,Frameworks,,Java|REST APIs,Intermediate
+ASP.NET Core,Frameworks,,C#|Azure,Intermediate
+Ruby on Rails,Frameworks,,Ruby|PostgreSQL,Intermediate
+Laravel,Frameworks,,PHP|MySQL,Intermediate
+Svelte,Frameworks,,JavaScript|TypeScript,Intermediate
+REST APIs,Frameworks,REST API|RESTful API|API,FastAPI|Postman|API Testing,Intermediate
+SQL,Database,,PostgreSQL|MySQL|Microsoft SQL Server,Beginner
+PostgreSQL,Database,Postgres|Postgre SQL,SQL|Python|Django,Intermediate
+MySQL,Database,My SQL,SQL|PHP|Django,Intermediate
+MongoDB,Database,,Node.js|Python,Intermediate
+Redis,Database,,Node.js|Docker,Intermediate
+SQLite,Database,,SQL|Python,Intermediate
+Microsoft SQL Server,Database,SQL Server|MSSQL|MS SQL,SQL|Azure|C#,Intermediate
+Oracle Database,Database,Oracle DB,SQL|Java,Intermediate
+DynamoDB,Database,,AWS|AWS Lambda,Intermediate
+Cassandra,Database,,Apache Kafka|Java,Advanced
+Snowflake,Database,,SQL|dbt|Apache Airflow,Advanced
+Elasticsearch,Database,,Apache Kafka|Python,Intermediate
+DBMS,Database,Database Management System|Database Management Systems,SQL|PostgreSQL|MongoDB,Intermediate
+Unit Testing,Testing,Unit tests,Pytest|JUnit|Jest,Beginner
+Integration Testing,Testing,Integration tests,Pytest|API Testing|Docker,Intermediate
+Test Automation,Testing,Automated testing|QA automation,Selenium|Playwright|Cypress,Intermediate
+Selenium,Testing,,Java|Python|Test Automation,Intermediate
+Playwright,Testing,,TypeScript|JavaScript|Test Automation,Intermediate
+Cypress,Testing,,JavaScript|Test Automation,Intermediate
+Jest,Testing,,JavaScript|TypeScript|Unit Testing,Intermediate
+Pytest,Testing,,Python|Unit Testing|FastAPI,Intermediate
+JUnit,Testing,,Java|Unit Testing,Intermediate
+API Testing,Testing,API test,Postman|REST APIs|Pytest,Intermediate
+Postman,Testing,,REST APIs|API Testing,Beginner
+AWS,Cloud,Amazon Web Services,Amazon S3|AWS Lambda|Terraform,Beginner
+Azure,Cloud,Microsoft Azure,Azure Functions|Azure DevOps|C#,Beginner
+Google Cloud,Cloud,GCP|Google Cloud Platform,Cloud Computing|Kubernetes|Terraform,Beginner
+Cloud Computing,Cloud,Cloud,AWS|Azure|Google Cloud,Beginner
+Serverless,Cloud,,AWS Lambda|Azure Functions|DynamoDB,Intermediate
+Amazon S3,Cloud,,AWS|Cloud Computing,Intermediate
+AWS Lambda,Cloud,Lambda|Amazon Lambda,AWS|Serverless|DynamoDB,Intermediate
+Azure Functions,Cloud,Azure Function Apps,Azure|Serverless|C#,Intermediate
+Docker,DevOps,,Kubernetes|Linux|CI/CD,Beginner
+Kubernetes,DevOps,,Docker|Helm|Prometheus,Advanced
+CI/CD,DevOps,Continuous Integration|Continuous Delivery|Continuous Deployment,GitHub Actions|Jenkins|Docker,Intermediate
+Git,DevOps,,GitHub Actions|Jenkins|CI/CD,Beginner
+GitHub Actions,DevOps,GitHub action workflows,Git|CI/CD|Docker,Intermediate
+Jenkins,DevOps,,CI/CD|Docker|Git,Intermediate
+Terraform,DevOps,,AWS|Azure,Advanced
+Ansible,DevOps,,Linux|Terraform,Intermediate
+Linux,DevOps,,Bash|Docker|Ansible,Intermediate
+Helm,DevOps,,Kubernetes|Docker,Intermediate
+Prometheus,DevOps,,Grafana|Kubernetes,Intermediate
+Grafana,DevOps,,Prometheus|Kubernetes,Intermediate
+Azure DevOps,DevOps,,Azure|CI/CD|Git,Intermediate
+Machine Learning,AI/ML,ML,scikit-learn|Pandas|XGBoost,Intermediate
+Deep Learning,AI/ML,DL,PyTorch|TensorFlow|Computer Vision,Intermediate
+Natural Language Processing,AI/ML,NLP,Transformers|Hugging Face|Large Language Models,Intermediate
+TensorFlow,AI/ML,,Deep Learning|Computer Vision|NumPy,Intermediate
+PyTorch,AI/ML,,Deep Learning|Hugging Face|Computer Vision,Intermediate
+scikit-learn,AI/ML,sklearn|scikit learn,Machine Learning|Pandas|NumPy,Intermediate
+Pandas,AI/ML,,Python|NumPy|Apache Spark,Beginner
+NumPy,AI/ML,,Python|Pandas|scikit-learn,Beginner
+Hugging Face,AI/ML,,Transformers|Natural Language Processing|PyTorch,Intermediate
+Transformers,AI/ML,,Hugging Face|Natural Language Processing|Large Language Models,Intermediate
+Large Language Models,AI/ML,LLM|LLMs,Generative AI|Prompt Engineering|Retrieval-Augmented Generation,Advanced
+Generative AI,AI/ML,,Large Language Models|Prompt Engineering|Hugging Face,Intermediate
+Prompt Engineering,AI/ML,,Large Language Models|Generative AI|Natural Language Processing,Intermediate
+Retrieval-Augmented Generation,AI/ML,RAG,Large Language Models|Hugging Face,Advanced
+Computer Vision,AI/ML,CV,PyTorch|TensorFlow|Deep Learning,Intermediate
+XGBoost,AI/ML,,Machine Learning|scikit-learn|Pandas,Intermediate
+MLOps,AI/ML,,Machine Learning|Docker|Kubernetes,Advanced
+Apache Kafka,Tools,Kafka,Apache Spark|Apache Airflow|Docker,Advanced
+Apache Spark,Tools,Spark|PySpark,Pandas|Apache Kafka|Databricks,Advanced
+Apache Airflow,Tools,Airflow,ETL|dbt|Apache Spark,Intermediate
+Databricks,Tools,DataBricks,Apache Spark|Pandas|dbt,Intermediate
+dbt,Tools,data build tool,Snowflake|SQL|Apache Airflow,Intermediate
+ETL,Tools,Extract Transform Load,Apache Airflow|Apache Spark|dbt,Intermediate
+Jupyter,Tools,,Python|Pandas|NumPy,Beginner
+VS Code,Tools,Visual Studio Code,Python|Git|JavaScript,Beginner
+HTML,Frameworks,HTML5,JavaScript|CSS|React,Beginner
+CSS,Frameworks,Cascading Style Sheets,HTML|JavaScript|React,Beginner

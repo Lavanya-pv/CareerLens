@@ -1,0 +1,65 @@
+﻿skill,resource_name,resource_url,difficulty,estimated_hours,project_idea
+Python,The Python Tutorial,https://docs.python.org/3/tutorial/,Beginner,8,Build a command-line tool that cleans a CSV and reports summary statistics.
+Java,dev.java Learn,https://dev.java/learn/,Beginner,10,Build a small REST service with input validation and unit tests.
+JavaScript,MDN JavaScript Guide,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide,Beginner,10,Create an interactive form that validates and summarizes user input.
+TypeScript,The TypeScript Handbook,https://www.typescriptlang.org/docs/handbook/intro.html,Intermediate,8,Convert a small JavaScript app to strict TypeScript with typed API responses.
+C#,Microsoft Learn: C#,https://learn.microsoft.com/en-us/dotnet/csharp/,Beginner,10,Build a typed console application that reads and validates a JSON file.
+C++,Microsoft Learn: C++,https://learn.microsoft.com/en-us/cpp/cpp/,Intermediate,12,Implement a small data-structure library with tests and clear memory ownership.
+Go,A Tour of Go,https://go.dev/tour/,Beginner,8,Build a concurrent URL status checker with a bounded worker pool.
+Rust,The Rust Programming Language,https://doc.rust-lang.org/book/,Intermediate,16,Create a safe command-line log parser with structured error handling.
+Kotlin,Kotlin Getting Started,https://kotlinlang.org/docs/getting-started.html,Beginner,8,Build a Kotlin command-line task tracker with data classes.
+Swift,The Swift Programming Language,https://docs.swift.org/swift-book/documentation/the-swift-programming-language/,Intermediate,12,Create a small typed client that decodes and displays public JSON data.
+React,React Learn,https://react.dev/learn,Beginner,10,Build an accessible searchable dashboard with reusable components.
+Angular,Learn Angular,https://angular.dev/tutorials/learn-angular,Beginner,10,Create a small inventory view with typed models and a filter form.
+Vue.js,Vue Tutorial,https://vuejs.org/tutorial/,Beginner,8,"Build a responsive issue tracker with create, filter, and status views."
+Next.js,Next.js Learn,https://nextjs.org/learn,Intermediate,10,Build a server-rendered article directory with search and pagination.
+Node.js,Node.js Learn,https://nodejs.org/en/learn,Beginner,8,Create a small HTTP API with validation and meaningful error responses.
+Express.js,Express Starter Guide,https://expressjs.com/en/starter/installing.html,Beginner,6,Build a REST endpoint for a small task list and document its requests.
+FastAPI,FastAPI Tutorial,https://fastapi.tiangolo.com/tutorial/first-steps/,Beginner,8,Build a typed API for a catalog with validation and generated docs.
+Django,Django Getting Started,https://www.djangoproject.com/start/,Beginner,12,Build a searchable project catalog with Django models and views.
+Flask,Flask Tutorial,https://flask.palletsprojects.com/en/stable/tutorial/,Beginner,10,"Build a lightweight notes app with routes, templates, and persistence."
+Spring Boot,Developing Your First Spring Boot Application,https://docs.spring.io/spring-boot/tutorial/first-application/index.html,Intermediate,12,Create a Java service with a health endpoint and tested business logic.
+ASP.NET Core,ASP.NET Core Fundamentals,https://learn.microsoft.com/en-us/training/paths/aspnet-core-fundamentals/,Intermediate,10,Build a small web API with a typed request model and validation.
+REST APIs,MDN: HTTP Overview,https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview,Beginner,5,Design and document an API with status codes and pagination.
+SQL,SQLBolt Interactive Lessons,https://sqlbolt.com/,Beginner,8,Query a public dataset and write five useful questions with SQL.
+PostgreSQL,PostgreSQL Tutorial,https://www.postgresql.org/docs/current/tutorial.html,Beginner,8,Create a normalized database and query it with joins and aggregates.
+MySQL,MySQL Tutorial,https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.4/en/,Beginner,8,Create a small relational schema and write CRUD queries with constraints.
+MongoDB,MongoDB University,https://learn.mongodb.com/,Beginner,8,Build a document-backed catalog and demonstrate filters and indexes.
+Redis,Redis Get Started,https://redis.io/docs/latest/develop/get-started/,Intermediate,6,Add a cache with expiration to a small API and measure repeated reads.
+SQLite,SQLite Documentation,https://sqlite.org/docs.html,Beginner,5,Create a small local database and write parameterized CRUD operations.
+Microsoft SQL Server,SQL Server Tutorials,https://learn.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server?view=sql-server-ver17,Beginner,8,"Build a reporting query with joins, grouping, and a reusable view."
+DynamoDB,Getting Started with DynamoDB,https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStartedDynamoDB.html,Intermediate,8,Model an access pattern and demonstrate a local or free-tier workflow.
+Snowflake,Snowflake Quickstarts,https://quickstarts.snowflake.com/,Intermediate,8,Load a small public dataset and create a documented transformation query.
+Elasticsearch,Elasticsearch Getting Started,https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html,Intermediate,8,Index documents and expose a filtered search endpoint.
+Selenium,Selenium Getting Started,https://www.selenium.dev/documentation/webdriver/getting_started/first_script/,Beginner,8,Automate a browser flow for a demo form and assert visible validation.
+Playwright,Playwright Introduction,https://playwright.dev/docs/intro,Beginner,8,Write end-to-end tests for validation and a searchable page.
+Cypress,Cypress Getting Started,https://docs.cypress.io/app/get-started/why-cypress,Beginner,8,Test a small user journey and capture useful failure screenshots.
+Jest,Jest Getting Started,https://jestjs.io/docs/getting-started,Beginner,6,Add unit tests and mocks for a JavaScript utility module.
+Pytest,pytest Get Started,https://docs.pytest.org/en/stable/getting-started.html,Beginner,5,Test a Python API helper with fixtures and edge cases.
+JUnit,JUnit 5 User Guide,https://docs.junit.org/current/user-guide/,Intermediate,8,Write parameterized tests for a Java validation component.
+Postman,Postman Learning Center,https://learning.postman.com/docs/introduction/overview/,Beginner,5,"Create a collection that exercises success, validation, and error cases."
+AWS,AWS Skill Builder,https://skillbuilder.aws/,Beginner,8,Deploy a small static site and document the access policies used.
+Azure,Microsoft Learn for Azure,https://learn.microsoft.com/en-us/training/azure/,Beginner,8,Deploy a small web app using a guided learning sandbox.
+Google Cloud,Google Cloud Learn,https://cloud.google.com/learn,Beginner,8,Deploy a containerized demo using a guided learning environment.
+Amazon S3,Getting Started with Amazon S3,https://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html,Beginner,4,Create a static asset workflow and document least-privilege access.
+Docker,Docker Get Started,https://docs.docker.com/get-started/,Beginner,6,Containerize a small API and document build and run steps.
+Kubernetes,Learn Kubernetes Basics,https://kubernetes.io/docs/tutorials/kubernetes-basics/,Intermediate,12,Deploy a local demo app with deployment and service manifests.
+Git,Git Tutorial,https://git-scm.com/docs/gittutorial,Beginner,4,Use branches and commits to deliver a feature with readable history.
+GitHub Actions,GitHub Actions Quickstart,https://docs.github.com/en/actions/get-started/quickstart,Intermediate,5,Create a CI workflow that runs checks on pull requests.
+Jenkins,Jenkins Pipeline Tutorial,https://www.jenkins.io/doc/pipeline/tour/hello-world/,Intermediate,6,Build a pipeline that installs dependencies and runs tests.
+Terraform,Terraform Tutorials,https://developer.hashicorp.com/terraform/tutorials,Intermediate,10,Provision and destroy a small infrastructure example.
+Machine Learning,scikit-learn Getting Started,https://scikit-learn.org/stable/getting_started.html,Beginner,10,Train and evaluate a baseline classifier with a documented split.
+Natural Language Processing,Hugging Face NLP Course,https://huggingface.co/learn/nlp-course/chapter1/1,Intermediate,12,Build a text classification demo and document its evaluation.
+TensorFlow,TensorFlow Tutorials,https://www.tensorflow.org/tutorials/,Intermediate,12,Train a small image classifier and report validation metrics.
+PyTorch,PyTorch Learn the Basics,https://docs.pytorch.org/tutorials/beginner/basics/intro.html,Intermediate,12,Train a basic classifier and save a reproducible evaluation script.
+scikit-learn,scikit-learn Getting Started,https://scikit-learn.org/stable/getting_started.html,Beginner,8,Build a preprocessing and model-evaluation pipeline.
+Pandas,pandas Getting Started,https://pandas.pydata.org/docs/getting_started/index.html,Beginner,6,Clean a real public CSV and create a concise quality summary.
+NumPy,NumPy Absolute Beginners,https://numpy.org/doc/stable/user/absolute_beginners.html,Beginner,5,Implement a numerical analysis using vectorized array operations.
+Hugging Face,Hugging Face Course,https://huggingface.co/learn,Intermediate,10,Compare a pretrained text model with a baseline and report limits.
+Apache Kafka,Apache Kafka Quick Start,https://kafka.apache.org/44/getting-started/quickstart/,Advanced,12,Produce and consume a local event stream with a clear schema.
+Apache Spark,Apache Spark Quick Start,https://spark.apache.org/docs/latest/quick-start.html,Advanced,12,Transform a public dataset with PySpark and compare baselines.
+Apache Airflow,Airflow 101 Tutorial,https://airflow.apache.org/docs/apache-airflow/stable/tutorial/fundamentals.html,Advanced,10,Schedule a three-step local workflow with retries and dependencies.
+dbt,dbt Quickstarts,https://docs.getdbt.com/docs/get-started-dbt,Intermediate,8,Create tested and documented transformations over a sample warehouse.
+Jupyter,Jupyter Notebook Documentation,https://docs.jupyter.org/en/latest/,Beginner,4,"Create a notebook that explains a dataset, analysis, and conclusions."
+HTML,MDN HTML Basics,https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics,Beginner,4,Build a semantic multi-section profile page with accessible headings and links.
+CSS,MDN CSS First Steps,https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics,Beginner,5,Style a responsive portfolio page with a small design system.

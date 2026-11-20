@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+database/careerlens.db
+data/careerlens.db
+*.sqlite3
+models/

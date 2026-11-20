@@ -1,0 +1,8 @@
+streamlit>=1.38
+PyMuPDF>=1.24
+scikit-learn>=1.5
+plotly>=5.24
+pandas>=2.2
+sentence-transformers>=3.0
+huggingface-hub>=0.24
+reportlab>=4.0
